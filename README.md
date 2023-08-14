@@ -2,13 +2,13 @@
 
 
 
-#CONTENT
+# CONTENT
 
 This dataset captures the details of how CO2 emissions by a vehicle can vary with the different features. The dataset has been taken from the Canada Government's official open data website. This is a compiled version. This contains data over a period of 7 years.
 
 There is a total of 26075 rows and 15 columns. There are a few abbreviations that have been used to describe the features. I am listing them out here. The same can be found in the Data Description sheet.
 
-##Model
+## Model
 
 4WD/4X4 = Four-wheel drive
 
@@ -22,7 +22,7 @@ LWB = Long wheelbase
 
 EWB = Extended wheelbase
 
-##Transmission
+## Transmission
 
 A = Automatic
 
@@ -36,7 +36,7 @@ M = Manual
 
 3 - 10 = Number of gears
 
-##Fuel type
+## Fuel type
 
 X = Regular gasoline
 
@@ -48,7 +48,7 @@ E = Ethanol (E85)
 
 N = Natural gas
 
-##Fuel Consumption
+## Fuel Consumption
 
 City and highway fuel consumption ratings are shown in liters per 100 kilometers (L/100 km) - the combined rating (55% city, 45% hwy) is shown in L/100 km and in miles per gallon (mpg)
 
@@ -60,12 +60,12 @@ The tailpipe emissions of carbon dioxide (in grams per kilometer) for combined c
 
 The tailpipe emissions of smog-forming pollutants are rated on a scale from 1 (worst) to 10 (best)
 
-##ACKNOWLEDGEMENTS
+## ACKNOWLEDGEMENTS
 
 The data has been taken and compiled from the below Canada Government official link -
 "https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6"
 
-#QUESTIONS
+# QUESTIONS
 
 Determine or test the influence of different variables on the emission of CO2 and the smog ratings.
 
