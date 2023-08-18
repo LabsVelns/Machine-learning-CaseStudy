@@ -52,11 +52,11 @@ N = Natural gas
 
 City and highway fuel consumption ratings are shown in liters per 100 kilometers (L/100 km) - the combined rating (55% city, 45% hwy) is shown in L/100 km and in miles per gallon (mpg)
 
-##CO2 Emissions
+## CO2 Emissions
 
 The tailpipe emissions of carbon dioxide (in grams per kilometer) for combined city and highway driving
 
-##Smog Rating
+## Smog Rating
 
 The tailpipe emissions of smog-forming pollutants are rated on a scale from 1 (worst) to 10 (best)
 
